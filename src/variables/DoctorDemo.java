@@ -1,3 +1,5 @@
+package variables;
+
 public class DoctorDemo {
 
     public static void main(String[] args){
